@@ -1,0 +1,41 @@
+Section 1: General Awareness
+
+Web Development Basics:
+
+What is web development, and why is it essential in the context of the internet?
+
+*Web development for me is the process or the approch that leads to develop a website or an application using coding languages such as html, css, javascript. 
+
+
+HTML Knowledge:
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development? 
+
+*html is the code language that is used to build the structure of the website or the application such as the header, the content...
+Section 2: Familiarity with CSS
+
+CSS Understanding:
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+*CSS is used to manage the design and user interface of the website. CSS have a specific type of coding language that is different from html 
+
+
+Section 3: JavaScript and Its Importance
+
+Introduction to JavaScript:
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+However, Javascript is used to manage interactivity of the website as well as the user exprience of the webiste 
+
+Section 4: Introduction to React and Node.js
+
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+As discussed during the live course, nodejs is used to build the backend of the website such as the databases, api, authentication... 
+Section 5: Bonus Question
+
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+Learning new skills in web development will allow me to access new opportunities, as I am an independent consultant in public health and these skills are essential for strengthening health systems information which is the main focus of my work
