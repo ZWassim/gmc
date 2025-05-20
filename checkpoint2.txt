@@ -1,4 +1,5 @@
 How does the web work? Web development is the process or approach used to create websites or web applications through the use of coding languages such as HTML, CSS, and JavaScript
 What do you need to be a web developer? 
-  To become a web developer, core web languages are key  like html, CSS and Javascript as well as editors like Git and GitHub. For fullstack, additional tools are needed for the backend side like database management tools like sql and no sql.
+To become a web developer, core web languages are key to be learned like html, CSS and Javascript as well as editors like Git and GitHub. For fullstack developper, additional tools are needed for the backend side like database management tools including sql and no sql.
 Why did you choose to learn web development? 
+Learning new skills in web development will allow me to access new opportunities, as I am an independent consultant in public health and these skills are essential for strengthening health systems information which is the main focus of my work
